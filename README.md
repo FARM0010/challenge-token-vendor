@@ -1,6 +1,12 @@
-# 🏵️ Token Vendor — SpeedRunEthereum Challenge
+# 🌼 Token Vendor — SpeedRunEthereum Challenge
 
-A minimal ERC‑20 + vending machine dApp built with **Scaffold‑ETH 2** (Next.js + Viem + Wagmi + Hardhat). The app lets users **buy** your ERC‑20, **transfer** it, and **sell it back** to the Vendor using the standard **approve → transferFrom** pattern.
+[![Vercel](https://img.shields.io/badge/Vercel-live-000?logo=vercel)](https://nextjs-llt7ljkl8-dormins-projects.vercel.app/)
+[![Vendor on Etherscan](https://img.shields.io/badge/Etherscan-Vendor-blue?logo=ethereum)](https://sepolia.etherscan.io/address/0x98219Dc8ECAFDe3B5ed9dAd5DD8bc14963Dd0F87)
+[![Token on Etherscan](https://img.shields.io/badge/Etherscan-YourToken-blue?logo=ethereum)](https://sepolia.etherscan.io/address/0x35f5CB22E33E7063514a26b3D8680B3Bc86F8176)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Built with Scaffold-ETH 2](https://img.shields.io/badge/Built%20with-Scaffold--ETH%202-29b6f6.svg)](https://github.com/scaffold-eth/scaffold-eth-2)
+
+A minimal ERC-20 + vending machine dApp built with **Scaffold-ETH 2** (Next.js + Viem + Wagmi + Hardhat). The app lets users **buy** your ERC-20, **transfer** it, and **sell it back** to the Vendor using the standard **approve → transferFrom** pattern.
 
 > This repository is a completed submission for the **Token Vendor** challenge on [speedrunethereum.com](https://speedrunethereum.com/challenge/token-vendor).
 
